@@ -50,7 +50,9 @@ By making a contribution to this project, I certify that:
 Use focused branches and pull requests. Describe what changes, why it matters,
 and how it was checked. Source files use SPDX-License-Identifier: Apache-2.0
 and Copyright 2026 ncdents, LLC. headers, with contributor notices where applicable.
-Keep all cryptographic policy in open-ari-core; SDKs must not implement competing
+Keep Apple ARI cryptographic policy in open-ari-core. Independent capture policy
+belongs in openari-capture, with separate profiles and trust roots. Language SDKs
+must share the relevant native implementation rather than implement competing
 trust decisions. Identify documented facts, observations, and proposals separately.
 
 For core changes run cargo fmt --all --check, cargo clippy --workspace

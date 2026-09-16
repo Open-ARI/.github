@@ -23,6 +23,7 @@ support, and predictable resource use guide the implementation.
 revision is supported yet. OpenARI cannot authenticate uploads today.
 
 - [Core, CLI, and architecture](https://github.com/open-ari/open-ari-core)
+- [Independent capture SDK research](https://github.com/open-ari/openari-capture)
 - [Documentation source](https://github.com/open-ari/website)
 - [OpenARI.org](https://openari.org)
 - [Implementation roadmap](https://github.com/open-ari/open-ari-core/blob/main/docs/roadmap.md)
