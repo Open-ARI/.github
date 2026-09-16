@@ -17,8 +17,11 @@
 This repository contains contribution, security, funding, and issue templates.
 The public organization profile is in profile/README.md.
 
-Core cryptographic and verification policy belongs in
-[open-ari-core](https://github.com/open-ari/open-ari-core), shared by all language SDKs.
+Apple ARI cryptographic and verification policy belongs in
+[open-ari-core](https://github.com/open-ari/open-ari-core), shared by its language SDKs.
+Independent camera signing and capture verification are planned separately in
+[openari-capture](https://github.com/open-ari/openari-capture), with distinct
+profiles, trust roots, and policy.
 Repository-local policies override GitHub's organization defaults where present.
 
 Funding points to [shoon](https://github.com/sponsors/shoon). A separate organization
