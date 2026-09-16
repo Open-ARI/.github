@@ -1,8 +1,20 @@
-# OpenARI community files
+<p align="center">
+  <a href="https://openari.org"><img src="assets/openari-logo.png" alt="OpenARI mosaic logo" width="128" height="128"></a>
+</p>
 
-<p><a href="https://openari.org"><img src="assets/openari-logo.png" alt="OpenARI mosaic logo" width="192" height="192"></a></p>
+<h1 align="center">OpenARI community files</h1>
 
-Shared contribution, security, funding, and issue templates for the open-ari organization.
+<p align="center">
+  Shared policies and templates for the OpenARI organization.
+</p>
+
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/open-ari/.github" alt="Apache 2.0 license"></a>
+  <a href="https://openari.org"><img src="https://img.shields.io/badge/docs-openari.org-007D79" alt="OpenARI documentation"></a>
+  <a href="https://github.com/sponsors/shoon"><img src="https://img.shields.io/badge/Sponsor-shoon-EA4AAA?logo=githubsponsors&amp;logoColor=white" alt="Sponsor shoon on GitHub"></a>
+</p>
+
+This repository contains contribution, security, funding, and issue templates.
 The public organization profile is in profile/README.md.
 
 Core cryptographic and verification policy belongs in
