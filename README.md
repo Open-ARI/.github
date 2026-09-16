@@ -1,5 +1,7 @@
 # OpenARI community files
 
+<p><a href="https://openari.org"><img src="assets/openari-logo.png" alt="OpenARI mosaic logo" width="192" height="192"></a></p>
+
 Shared contribution, security, funding, and issue templates for the open-ari organization.
 The public organization profile is in profile/README.md.
 
