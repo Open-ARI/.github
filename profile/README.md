@@ -1,8 +1,19 @@
-# OpenARI
+<p align="center">
+  <a href="https://openari.org"><img src="https://raw.githubusercontent.com/open-ari/.github/main/assets/openari-logo.png" alt="OpenARI mosaic logo" width="128" height="128"></a>
+</p>
 
-<p><a href="https://openari.org"><img src="https://raw.githubusercontent.com/open-ari/.github/main/assets/openari-logo.png" alt="OpenARI mosaic logo" width="192" height="192"></a></p>
+<h1 align="center">OpenARI</h1>
 
-Independent open-source tools for Apple Reference Image.
+<p align="center">
+  Independent open-source tools for Apple Reference Image.
+</p>
+
+<p align="center">
+  <a href="https://openari.org/status"><img src="https://img.shields.io/badge/status-pre--spec-orange" alt="Pre-spec development status"></a>
+  <a href="https://github.com/open-ari/.github/blob/main/LICENSE"><img src="https://img.shields.io/github/license/open-ari/.github" alt="Apache 2.0 license"></a>
+  <a href="https://openari.org"><img src="https://img.shields.io/badge/docs-openari.org-007D79" alt="OpenARI documentation"></a>
+  <a href="https://github.com/sponsors/shoon"><img src="https://img.shields.io/badge/Sponsor-shoon-EA4AAA?logo=githubsponsors&amp;logoColor=white" alt="Sponsor shoon on GitHub"></a>
+</p>
 
 We are building a shared verification engine, command-line tools, and language
 libraries for applications that accept images. Security, explicit version
