@@ -1,5 +1,7 @@
 # OpenARI
 
+<p><a href="https://openari.org"><img src="https://raw.githubusercontent.com/open-ari/.github/main/assets/openari-logo.png" alt="OpenARI mosaic logo" width="192" height="192"></a></p>
+
 Independent open-source tools for Apple Reference Image.
 
 We are building a shared verification engine, command-line tools, and language
