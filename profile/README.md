@@ -31,7 +31,7 @@ The capture SDK is an architecture-only scaffold; capture signing and verificati
 are not implemented yet.
 
 - [Core, CLI, and architecture](https://github.com/open-ari/open-ari-core)
-- [Independent capture SDK research](https://github.com/open-ari/openari-capture)
+- [Independent capture SDK research](https://github.com/open-ari/open-ari-capture)
 - [Documentation source](https://github.com/open-ari/website)
 - [OpenARI.org](https://openari.org)
 - [Implementation roadmap](https://github.com/open-ari/open-ari-core/blob/main/docs/roadmap.md)
