@@ -25,8 +25,11 @@ The two projects use separate profiles and trust models. Independent capture
 signatures are not Apple attestations. Security, explicit version support, and
 predictable resource use guide both projects.
 
-**Current status:** planning and development scaffold. No Apple ARI format
-revision is supported yet. OpenARI cannot authenticate uploads today.
+**Current status:** pre-specification development. Apple has described its
+design but not published the file format, keys, or revocation list, so no Apple
+ARI format revision is supported yet. OpenARI cannot authenticate uploads today.
+The core can list image file structure and includes a composite ML-DSA-87 +
+RSA-3072-PSS signature primitive tested against IETF vectors.
 The capture SDK is an architecture-only scaffold; capture signing and verification
 are not implemented yet.
 
